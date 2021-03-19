@@ -1,0 +1,120 @@
+
+
+------------------------ 2021-03-18 14:00:26.569029---------------------------
+
+
+
+------------------------ 2021-03-18 14:00:41.228164---------------------------
+
+
+
+------------------------ 2021-03-18 14:02:21.314548---------------------------
+
+Recieved call to get current devicesCurrent devices :{'devices': [{'id': '1362fede391e6bf9a299c1fb13df4ee27c6f08e9', 'is_active': False, 'is_private_session': False, 'is_restricted': False, 'name': 'Web Player (Chrome)', 'type': 'Computer', 'volume_percent': 100}, {'id': '463176e913b1e197439140049c31f87d938e5e71', 'is_active': True, 'is_private_session': False, 'is_restricted': False, 'name': 'Kael’s iPhone', 'type': 'Smartphone', 'volume_percent': 100}, {'id': '98bb0735e28656bac098d927d410c3138a4b5bca', 'is_active': False, 'is_private_session': False, 'is_restricted': False, 'name': 'raspotify (raspberrypi)', 'type': 'Speaker', 'volume_percent': 12}, {'id': 'e14fc50b1466fb4e9400f80c7ae34158a3e07f6a', 'is_active': False, 'is_private_session': False, 'is_restricted': False, 'name': 'MacBook Pro', 'type': 'Computer', 'volume_percent': 100}]}--------------------------------Recieved call to get current devicesCurrent devices :{'devices': [{'id': '1362fede391e6bf9a299c1fb13df4ee27c6f08e9', 'is_active': False, 'is_private_session': False, 'is_restricted': False, 'name': 'Web Player (Chrome)', 'type': 'Computer', 'volume_percent': 100}, {'id': '463176e913b1e197439140049c31f87d938e5e71', 'is_active': True, 'is_private_session': False, 'is_restricted': False, 'name': 'Kael’s iPhone', 'type': 'Smartphone', 'volume_percent': 100}, {'id': '98bb0735e28656bac098d927d410c3138a4b5bca', 'is_active': False, 'is_private_session': False, 'is_restricted': False, 'name': 'raspotify (raspberrypi)', 'type': 'Speaker', 'volume_percent': 12}, {'id': 'e14fc50b1466fb4e9400f80c7ae34158a3e07f6a', 'is_active': False, 'is_private_session': False, 'is_restricted': False, 'name': 'MacBook Pro', 'type': 'Computer', 'volume_percent': 100}]}--------------------------------Recieved call to get current devicesCurrent devices :{'devices': [{'id': '1362fede391e6bf9a299c1fb13df4ee27c6f08e9', 'is_active': False, 'is_private_session': False, 'is_restricted': False, 'name': 'Web Player (Chrome)', 'type': 'Computer', 'volume_percent': 100}, {'id': '463176e913b1e197439140049c31f87d938e5e71', 'is_active': True, 'is_private_session': False, 'is_restricted': False, 'name': 'Kael’s iPhone', 'type': 'Smartphone', 'volume_percent': 100}, {'id': '98bb0735e28656bac098d927d410c3138a4b5bca', 'is_active': False, 'is_private_session': False, 'is_restricted': False, 'name': 'raspotify (raspberrypi)', 'type': 'Speaker', 'volume_percent': 12}, {'id': 'e14fc50b1466fb4e9400f80c7ae34158a3e07f6a', 'is_active': False, 'is_private_session': False, 'is_restricted': False, 'name': 'MacBook Pro', 'type': 'Computer', 'volume_percent': 100}]}--------------------------------Recieved call to get current playback
+
+------------------------ 2021-03-18 14:03:48.058968---------------------------
+
+Recieved call to get current playbackCurrent playback: {'device': {'id': '463176e913b1e197439140049c31f87d938e5e71', 'is_active': True, 'is_private_session': False, 'is_restricted': False, 'name': 'Kael’s iPhone', 'type': 'Smartphone', 'volume_percent': 100}, 'shuffle_state': True, 'repeat_state': 'off', 'timestamp': 1616090594256, 'context': {'external_urls': {'spotify': 'https://open.spotify.com/playlist/3XIwMH07FKq7nKbeXJcJAk'}, 'href': 'https://api.spotify.com/v1/playlists/3XIwMH07FKq7nKbeXJcJAk', 'type': 'playlist', 'uri': 'spotify:playlist:3XIwMH07FKq7nKbeXJcJAk'}, 'progress_ms': 33915, 'item': {'album': {'album_type': 'album', 'artists': [{'external_urls': {'spotify': 'https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4'}, 'href': 'https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4', 'id': '3TVXtAsR1Inumwj472S9r4', 'name': 'Drake', 'type': 'artist', 'uri': 'spotify:artist:3TVXtAsR1Inumwj472S9r4'}], 'available_markets': ['AD', 'AE', 'AL', 'AR', 'AT', 'AU', 'BA', 'BE', 'BG', 'BH', 'BO', 'BR', 'CA', 'CH', 'CL', 'CO', 'CR', 'CY', 'CZ', 'DE', 'DK', 'DO', 'DZ', 'EC', 'EE', 'EG', 'ES', 'FI', 'FR', 'GB', 'GR', 'GT', 'HK', 'HN', 'HR', 'HU', 'ID', 'IE', 'IL', 'IN', 'IS', 'IT', 'JO', 'JP', 'KW', 'KZ', 'LB', 'LI', 'LT', 'LU', 'LV', 'MA', 'MC', 'MD', 'ME', 'MK', 'MT', 'MX', 'MY', 'NI', 'NL', 'NO', 'NZ', 'OM', 'PA', 'PE', 'PH', 'PL', 'PS', 'PT', 'PY', 'QA', 'RO', 'RS', 'RU', 'SA', 'SE', 'SG', 'SI', 'SK', 'SV', 'TH', 'TN', 'TR', 'TW', 'UA', 'US', 'UY', 'VN', 'XK', 'ZA'], 'external_urls': {'spotify': 'https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK'}, 'href': 'https://api.spotify.com/v1/albums/1lXY618HWkwYKJWBRYR4MK', 'id': '1lXY618HWkwYKJWBRYR4MK', 'images': [{'height': 640, 'url': 'https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700', 'width': 640}, {'height': 300, 'url': 'https://i.scdn.co/image/ab67616d00001e024f0fd9dad63977146e685700', 'width': 300}, {'height': 64, 'url': 'https://i.scdn.co/image/ab67616d000048514f0fd9dad63977146e685700', 'width': 64}], 'name': 'More Life', 'release_date': '2017-03-18', 'release_date_precision': 'day', 'total_tracks': 22, 'type': 'album', 'uri': 'spotify:album:1lXY618HWkwYKJWBRYR4MK'}, 'artists': [{'external_urls': {'spotify': 'https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4'}, 'href': 'https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4', 'id': '3TVXtAsR1Inumwj472S9r4', 'name': 'Drake', 'type': 'artist', 'uri': 'spotify:artist:3TVXtAsR1Inumwj472S9r4'}], 'available_markets': ['AD', 'AE', 'AL', 'AR', 'AT', 'AU', 'BA', 'BE', 'BG', 'BH', 'BO', 'BR', 'CA', 'CH', 'CL', 'CO', 'CR', 'CY', 'CZ', 'DE', 'DK', 'DO', 'DZ', 'EC', 'EE', 'EG', 'ES', 'FI', 'FR', 'GB', 'GR', 'GT', 'HK', 'HN', 'HR', 'HU', 'ID', 'IE', 'IL', 'IN', 'IS', 'IT', 'JO', 'JP', 'KW', 'KZ', 'LB', 'LI', 'LT', 'LU', 'LV', 'MA', 'MC', 'MD', 'ME', 'MK', 'MT', 'MX', 'MY', 'NI', 'NL', 'NO', 'NZ', 'OM', 'PA', 'PE', 'PH', 'PL', 'PS', 'PT', 'PY', 'QA', 'RO', 'RS', 'RU', 'SA', 'SE', 'SG', 'SI', 'SK', 'SV', 'TH', 'TN', 'TR', 'TW', 'UA', 'US', 'UY', 'VN', 'XK', 'ZA'], 'disc_number': 1, 'duration_ms': 283550, 'explicit': True, 'external_ids': {'isrc': 'USCM51700049'}, 'external_urls': {'spotify': 'https://open.spotify.com/track/2KvHC9z14GSl4YpkNMX384'}, 'href': 'https://api.spotify.com/v1/tracks/2KvHC9z14GSl4YpkNMX384', 'id': '2KvHC9z14GSl4YpkNMX384', 'is_local': False, 'name': 'Do Not Disturb', 'popularity': 72, 'preview_url': 'https://p.scdn.co/mp3-preview/4d10a3cf93355a27577672be7b1e056bbd60c8d0?cid=a95f4d68b9b94ccda85624e8b63494ad', 'track_number': 22, 'type': 'track', 'uri': 'spotify:track:2KvHC9z14GSl4YpkNMX384'}, 'currently_playing_type': 'track', 'actions': {'disallows': {'resuming': True}}, 'is_playing': True}
+
+------------------------ 2021-03-18 14:04:14.344431---------------------------
+
+
+
+------------------------ 2021-03-18 14:06:21.795027---------------------------
+
+Recieved call to get current playbackCurrent playback: {'device': {'id': '463176e913b1e197439140049c31f87d938e5e71', 'is_active': True, 'is_private_session': False, 'is_restricted': False, 'name': 'Kael’s iPhone', 'type': 'Smartphone', 'volume_percent': 100}, 'shuffle_state': True, 'repeat_state': 'off', 'timestamp': 1616090597247, 'context': {'external_urls': {'spotify': 'https://open.spotify.com/playlist/3XIwMH07FKq7nKbeXJcJAk'}, 'href': 'https://api.spotify.com/v1/playlists/3XIwMH07FKq7nKbeXJcJAk', 'type': 'playlist', 'uri': 'spotify:playlist:3XIwMH07FKq7nKbeXJcJAk'}, 'progress_ms': 189303, 'item': {'album': {'album_type': 'album', 'artists': [{'external_urls': {'spotify': 'https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4'}, 'href': 'https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4', 'id': '3TVXtAsR1Inumwj472S9r4', 'name': 'Drake', 'type': 'artist', 'uri': 'spotify:artist:3TVXtAsR1Inumwj472S9r4'}], 'available_markets': ['AD', 'AE', 'AL', 'AR', 'AT', 'AU', 'BA', 'BE', 'BG', 'BH', 'BO', 'BR', 'CA', 'CH', 'CL', 'CO', 'CR', 'CY', 'CZ', 'DE', 'DK', 'DO', 'DZ', 'EC', 'EE', 'EG', 'ES', 'FI', 'FR', 'GB', 'GR', 'GT', 'HK', 'HN', 'HR', 'HU', 'ID', 'IE', 'IL', 'IN', 'IS', 'IT', 'JO', 'JP', 'KW', 'KZ', 'LB', 'LI', 'LT', 'LU', 'LV', 'MA', 'MC', 'MD', 'ME', 'MK', 'MT', 'MX', 'MY', 'NI', 'NL', 'NO', 'NZ', 'OM', 'PA', 'PE', 'PH', 'PL', 'PS', 'PT', 'PY', 'QA', 'RO', 'RS', 'RU', 'SA', 'SE', 'SG', 'SI', 'SK', 'SV', 'TH', 'TN', 'TR', 'TW', 'UA', 'US', 'UY', 'VN', 'XK', 'ZA'], 'external_urls': {'spotify': 'https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK'}, 'href': 'https://api.spotify.com/v1/albums/1lXY618HWkwYKJWBRYR4MK', 'id': '1lXY618HWkwYKJWBRYR4MK', 'images': [{'height': 640, 'url': 'https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700', 'width': 640}, {'height': 300, 'url': 'https://i.scdn.co/image/ab67616d00001e024f0fd9dad63977146e685700', 'width': 300}, {'height': 64, 'url': 'https://i.scdn.co/image/ab67616d000048514f0fd9dad63977146e685700', 'width': 64}], 'name': 'More Life', 'release_date': '2017-03-18', 'release_date_precision': 'day', 'total_tracks': 22, 'type': 'album', 'uri': 'spotify:album:1lXY618HWkwYKJWBRYR4MK'}, 'artists': [{'external_urls': {'spotify': 'https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4'}, 'href': 'https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4', 'id': '3TVXtAsR1Inumwj472S9r4', 'name': 'Drake', 'type': 'artist', 'uri': 'spotify:artist:3TVXtAsR1Inumwj472S9r4'}], 'available_markets': ['AD', 'AE', 'AL', 'AR', 'AT', 'AU', 'BA', 'BE', 'BG', 'BH', 'BO', 'BR', 'CA', 'CH', 'CL', 'CO', 'CR', 'CY', 'CZ', 'DE', 'DK', 'DO', 'DZ', 'EC', 'EE', 'EG', 'ES', 'FI', 'FR', 'GB', 'GR', 'GT', 'HK', 'HN', 'HR', 'HU', 'ID', 'IE', 'IL', 'IN', 'IS', 'IT', 'JO', 'JP', 'KW', 'KZ', 'LB', 'LI', 'LT', 'LU', 'LV', 'MA', 'MC', 'MD', 'ME', 'MK', 'MT', 'MX', 'MY', 'NI', 'NL', 'NO', 'NZ', 'OM', 'PA', 'PE', 'PH', 'PL', 'PS', 'PT', 'PY', 'QA', 'RO', 'RS', 'RU', 'SA', 'SE', 'SG', 'SI', 'SK', 'SV', 'TH', 'TN', 'TR', 'TW', 'UA', 'US', 'UY', 'VN', 'XK', 'ZA'], 'disc_number': 1, 'duration_ms': 283550, 'explicit': True, 'external_ids': {'isrc': 'USCM51700049'}, 'external_urls': {'spotify': 'https://open.spotify.com/track/2KvHC9z14GSl4YpkNMX384'}, 'href': 'https://api.spotify.com/v1/tracks/2KvHC9z14GSl4YpkNMX384', 'id': '2KvHC9z14GSl4YpkNMX384', 'is_local': False, 'name': 'Do Not Disturb', 'popularity': 72, 'preview_url': 'https://p.scdn.co/mp3-preview/4d10a3cf93355a27577672be7b1e056bbd60c8d0?cid=a95f4d68b9b94ccda85624e8b63494ad', 'track_number': 22, 'type': 'track', 'uri': 'spotify:track:2KvHC9z14GSl4YpkNMX384'}, 'currently_playing_type': 'track', 'actions': {'disallows': {'resuming': True}}, 'is_playing': True}
+
+------------------------ 2021-03-18 14:16:45.655572---------------------------
+
+
+
+------------------------ 2021-03-18 14:16:49.117572---------------------------
+
+
+
+------------------------ 2021-03-18 14:16:51.531541---------------------------
+
+
+
+------------------------ 2021-03-18 14:20:57.074534---------------------------
+
+
+
+------------------------ 2021-03-18 14:20:57.369125---------------------------
+
+
+
+------------------------ 2021-03-18 14:21:55.290778---------------------------
+
+
+
+------------------------ 2021-03-18 14:23:25.637401---------------------------
+
+
+
+------------------------ 2021-03-18 14:23:32.085852---------------------------
+
+
+
+------------------------ 2021-03-18 14:23:35.530890---------------------------
+
+
+
+------------------------ 2021-03-18 14:24:51.154139---------------------------
+
+
+
+------------------------ 2021-03-18 14:27:05.137709---------------------------
+
+
+
+------------------------ 2021-03-18 14:27:22.821555---------------------------
+
+
+
+------------------------ 2021-03-18 14:27:39.605481---------------------------
+
+
+
+------------------------ 2021-03-18 14:27:47.109322---------------------------
+
+
+
+------------------------ 2021-03-18 14:27:54.652872---------------------------
+
+
+
+------------------------ 2021-03-18 14:29:17.926411---------------------------
+
+
+
+------------------------ 2021-03-18 14:31:09.588724---------------------------
+
+
+
+------------------------ 2021-03-18 14:31:09.860320---------------------------
+
+
+
+------------------------ 2021-03-18 14:31:27.645612---------------------------
+
+
+
+------------------------ 2021-03-18 14:31:39.225766---------------------------
+
+
+
+------------------------ 2021-03-18 14:32:41.142351---------------------------
+
+
+
+------------------------ 2021-03-18 14:44:55.232211---------------------------
+
+
+
+------------------------ 2021-03-18 14:46:29.897207---------------------------
+
+
+
+------------------------ 2021-03-18 14:47:02.034836---------------------------
+

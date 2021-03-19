@@ -1,0 +1,405 @@
+
+
+------------------------ 2021-03-18 16:04:35.997959---------------------------
+
+
+
+------------------------ 2021-03-18 16:04:40.443663---------------------------
+
+
+
+------------------------ 2021-03-18 16:05:36.193926---------------------------
+
+
+
+------------------------ 2021-03-18 16:05:43.715658---------------------------
+
+
+
+------------------------ 2021-03-18 16:05:47.156019---------------------------
+
+
+
+------------------------ 2021-03-18 16:10:02.154085---------------------------
+
+
+
+------------------------ 2021-03-18 16:10:18.800441---------------------------
+
+
+
+------------------------ 2021-03-18 16:10:22.281411---------------------------
+
+
+
+------------------------ 2021-03-18 16:10:27.776561---------------------------
+
+
+
+------------------------ 2021-03-18 16:10:31.221275---------------------------
+
+
+
+------------------------ 2021-03-18 16:10:38.809947---------------------------
+
+
+
+------------------------ 2021-03-18 16:15:00.709545---------------------------
+
+Recieved call to get current playbackCurrent playback: {'device': {'id': '463176e913b1e197439140049c31f87d938e5e71', 'is_active': True, 'is_private_session': False, 'is_restricted': False, 'name': 'Kael’s iPhone', 'type': 'Smartphone', 'volume_percent': 100}, 'shuffle_state': True, 'repeat_state': 'off', 'timestamp': 1616098402892, 'context': {'external_urls': {'spotify': 'https://open.spotify.com/playlist/3XIwMH07FKq7nKbeXJcJAk'}, 'href': 'https://api.spotify.com/v1/playlists/3XIwMH07FKq7nKbeXJcJAk', 'type': 'playlist', 'uri': 'spotify:playlist:3XIwMH07FKq7nKbeXJcJAk'}, 'progress_ms': 131451, 'item': {'album': {'album_type': 'single', 'artists': [{'external_urls': {'spotify': 'https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4'}, 'href': 'https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4', 'id': '3TVXtAsR1Inumwj472S9r4', 'name': 'Drake', 'type': 'artist', 'uri': 'spotify:artist:3TVXtAsR1Inumwj472S9r4'}], 'available_markets': ['AD', 'AE', 'AL', 'AR', 'AT', 'AU', 'BA', 'BE', 'BG', 'BH', 'BO', 'BR', 'CA', 'CH', 'CL', 'CO', 'CR', 'CY', 'CZ', 'DE', 'DK', 'DO', 'DZ', 'EC', 'EE', 'EG', 'ES', 'FI', 'FR', 'GB', 'GR', 'GT', 'HK', 'HN', 'HR', 'HU', 'ID', 'IE', 'IL', 'IN', 'IS', 'IT', 'JO', 'JP', 'KW', 'KZ', 'LB', 'LI', 'LT', 'LU', 'LV', 'MA', 'MC', 'MD', 'ME', 'MK', 'MT', 'MX', 'MY', 'NI', 'NL', 'NO', 'NZ', 'OM', 'PA', 'PE', 'PH', 'PL', 'PS', 'PT', 'PY', 'QA', 'RO', 'RS', 'RU', 'SA', 'SE', 'SG', 'SI', 'SK', 'SV', 'TH', 'TN', 'TR', 'TW', 'UA', 'US', 'UY', 'VN', 'XK', 'ZA'], 'external_urls': {'spotify': 'https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4'}, 'href': 'https://api.spotify.com/v1/albums/00HZxSA1sOS9T3nA950sg4', 'id': '00HZxSA1sOS9T3nA950sg4', 'images': [{'height': 640, 'url': 'https://i.scdn.co/image/ab67616d0000b2733f3b653b0a7b9e889a712c3d', 'width': 640}, {'height': 300, 'url': 'https://i.scdn.co/image/ab67616d00001e023f3b653b0a7b9e889a712c3d', 'width': 300}, {'height': 64, 'url': 'https://i.scdn.co/image/ab67616d000048513f3b653b0a7b9e889a712c3d', 'width': 64}], 'name': 'The Best In The World Pack', 'release_date': '2019-06-15', 'release_date_precision': 'day', 'total_tracks': 2, 'type': 'album', 'uri': 'spotify:album:00HZxSA1sOS9T3nA950sg4'}, 'artists': [{'external_urls': {'spotify': 'https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4'}, 'href': 'https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4', 'id': '3TVXtAsR1Inumwj472S9r4', 'name': 'Drake', 'type': 'artist', 'uri': 'spotify:artist:3TVXtAsR1Inumwj472S9r4'}], 'available_markets': ['AD', 'AE', 'AL', 'AR', 'AT', 'AU', 'BA', 'BE', 'BG', 'BH', 'BO', 'BR', 'CA', 'CH', 'CL', 'CO', 'CR', 'CY', 'CZ', 'DE', 'DK', 'DO', 'DZ', 'EC', 'EE', 'EG', 'ES', 'FI', 'FR', 'GB', 'GR', 'GT', 'HK', 'HN', 'HR', 'HU', 'ID', 'IE', 'IL', 'IN', 'IS', 'IT', 'JO', 'JP', 'KW', 'KZ', 'LB', 'LI', 'LT', 'LU', 'LV', 'MA', 'MC', 'MD', 'ME', 'MK', 'MT', 'MX', 'MY', 'NI', 'NL', 'NO', 'NZ', 'OM', 'PA', 'PE', 'PH', 'PL', 'PS', 'PT', 'PY', 'QA', 'RO', 'RS', 'RU', 'SA', 'SE', 'SG', 'SI', 'SK', 'SV', 'TH', 'TN', 'TR', 'TW', 'UA', 'US', 'UY', 'VN', 'XK', 'ZA'], 'disc_number': 1, 'duration_ms': 219506, 'explicit': True, 'external_ids': {'isrc': 'USCM51900312'}, 'external_urls': {'spotify': 'https://open.spotify.com/track/3kCwyvhvVTyehIzYN2I0nF'}, 'href': 'https://api.spotify.com/v1/tracks/3kCwyvhvVTyehIzYN2I0nF', 'id': '3kCwyvhvVTyehIzYN2I0nF', 'is_local': False, 'name': 'Omertà', 'popularity': 61, 'preview_url': 'https://p.scdn.co/mp3-preview/771b03e12dd4a25efd044beed06c23d65dbb1b70?cid=a95f4d68b9b94ccda85624e8b63494ad', 'track_number': 1, 'type': 'track', 'uri': 'spotify:track:3kCwyvhvVTyehIzYN2I0nF'}, 'currently_playing_type': 'track', 'actions': {'disallows': {'resuming': True}}, 'is_playing': True}
+
+------------------------ 2021-03-18 16:15:55.342437---------------------------
+
+
+
+------------------------ 2021-03-18 16:15:58.770040---------------------------
+
+
+
+------------------------ 2021-03-18 16:16:02.268281---------------------------
+
+
+
+------------------------ 2021-03-18 16:16:09.456104---------------------------
+
+
+
+------------------------ 2021-03-18 16:16:09.749249---------------------------
+
+Recieved call to get current playbackCurrent playback: {'device': {'id': '463176e913b1e197439140049c31f87d938e5e71', 'is_active': True, 'is_private_session': False, 'is_restricted': False, 'name': 'Kael’s iPhone', 'type': 'Smartphone', 'volume_percent': 100}, 'shuffle_state': True, 'repeat_state': 'off', 'timestamp': 1616098402892, 'context': {'external_urls': {'spotify': 'https://open.spotify.com/playlist/3XIwMH07FKq7nKbeXJcJAk'}, 'href': 'https://api.spotify.com/v1/playlists/3XIwMH07FKq7nKbeXJcJAk', 'type': 'playlist', 'uri': 'spotify:playlist:3XIwMH07FKq7nKbeXJcJAk'}, 'progress_ms': 169175, 'item': {'album': {'album_type': 'single', 'artists': [{'external_urls': {'spotify': 'https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4'}, 'href': 'https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4', 'id': '3TVXtAsR1Inumwj472S9r4', 'name': 'Drake', 'type': 'artist', 'uri': 'spotify:artist:3TVXtAsR1Inumwj472S9r4'}], 'available_markets': ['AD', 'AE', 'AL', 'AR', 'AT', 'AU', 'BA', 'BE', 'BG', 'BH', 'BO', 'BR', 'CA', 'CH', 'CL', 'CO', 'CR', 'CY', 'CZ', 'DE', 'DK', 'DO', 'DZ', 'EC', 'EE', 'EG', 'ES', 'FI', 'FR', 'GB', 'GR', 'GT', 'HK', 'HN', 'HR', 'HU', 'ID', 'IE', 'IL', 'IN', 'IS', 'IT', 'JO', 'JP', 'KW', 'KZ', 'LB', 'LI', 'LT', 'LU', 'LV', 'MA', 'MC', 'MD', 'ME', 'MK', 'MT', 'MX', 'MY', 'NI', 'NL', 'NO', 'NZ', 'OM', 'PA', 'PE', 'PH', 'PL', 'PS', 'PT', 'PY', 'QA', 'RO', 'RS', 'RU', 'SA', 'SE', 'SG', 'SI', 'SK', 'SV', 'TH', 'TN', 'TR', 'TW', 'UA', 'US', 'UY', 'VN', 'XK', 'ZA'], 'external_urls': {'spotify': 'https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4'}, 'href': 'https://api.spotify.com/v1/albums/00HZxSA1sOS9T3nA950sg4', 'id': '00HZxSA1sOS9T3nA950sg4', 'images': [{'height': 640, 'url': 'https://i.scdn.co/image/ab67616d0000b2733f3b653b0a7b9e889a712c3d', 'width': 640}, {'height': 300, 'url': 'https://i.scdn.co/image/ab67616d00001e023f3b653b0a7b9e889a712c3d', 'width': 300}, {'height': 64, 'url': 'https://i.scdn.co/image/ab67616d000048513f3b653b0a7b9e889a712c3d', 'width': 64}], 'name': 'The Best In The World Pack', 'release_date': '2019-06-15', 'release_date_precision': 'day', 'total_tracks': 2, 'type': 'album', 'uri': 'spotify:album:00HZxSA1sOS9T3nA950sg4'}, 'artists': [{'external_urls': {'spotify': 'https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4'}, 'href': 'https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4', 'id': '3TVXtAsR1Inumwj472S9r4', 'name': 'Drake', 'type': 'artist', 'uri': 'spotify:artist:3TVXtAsR1Inumwj472S9r4'}], 'available_markets': ['AD', 'AE', 'AL', 'AR', 'AT', 'AU', 'BA', 'BE', 'BG', 'BH', 'BO', 'BR', 'CA', 'CH', 'CL', 'CO', 'CR', 'CY', 'CZ', 'DE', 'DK', 'DO', 'DZ', 'EC', 'EE', 'EG', 'ES', 'FI', 'FR', 'GB', 'GR', 'GT', 'HK', 'HN', 'HR', 'HU', 'ID', 'IE', 'IL', 'IN', 'IS', 'IT', 'JO', 'JP', 'KW', 'KZ', 'LB', 'LI', 'LT', 'LU', 'LV', 'MA', 'MC', 'MD', 'ME', 'MK', 'MT', 'MX', 'MY', 'NI', 'NL', 'NO', 'NZ', 'OM', 'PA', 'PE', 'PH', 'PL', 'PS', 'PT', 'PY', 'QA', 'RO', 'RS', 'RU', 'SA', 'SE', 'SG', 'SI', 'SK', 'SV', 'TH', 'TN', 'TR', 'TW', 'UA', 'US', 'UY', 'VN', 'XK', 'ZA'], 'disc_number': 1, 'duration_ms': 219506, 'explicit': True, 'external_ids': {'isrc': 'USCM51900312'}, 'external_urls': {'spotify': 'https://open.spotify.com/track/3kCwyvhvVTyehIzYN2I0nF'}, 'href': 'https://api.spotify.com/v1/tracks/3kCwyvhvVTyehIzYN2I0nF', 'id': '3kCwyvhvVTyehIzYN2I0nF', 'is_local': False, 'name': 'Omertà', 'popularity': 61, 'preview_url': 'https://p.scdn.co/mp3-preview/771b03e12dd4a25efd044beed06c23d65dbb1b70?cid=a95f4d68b9b94ccda85624e8b63494ad', 'track_number': 1, 'type': 'track', 'uri': 'spotify:track:3kCwyvhvVTyehIzYN2I0nF'}, 'currently_playing_type': 'track', 'actions': {'disallows': {'resuming': True}}, 'is_playing': True}Recieved call to get current playbackCurrent playback: {'device': {'id': '463176e913b1e197439140049c31f87d938e5e71', 'is_active': True, 'is_private_session': False, 'is_restricted': False, 'name': 'Kael’s iPhone', 'type': 'Smartphone', 'volume_percent': 100}, 'shuffle_state': True, 'repeat_state': 'off', 'timestamp': 1616098402892, 'context': {'external_urls': {'spotify': 'https://open.spotify.com/playlist/3XIwMH07FKq7nKbeXJcJAk'}, 'href': 'https://api.spotify.com/v1/playlists/3XIwMH07FKq7nKbeXJcJAk', 'type': 'playlist', 'uri': 'spotify:playlist:3XIwMH07FKq7nKbeXJcJAk'}, 'progress_ms': 170391, 'item': {'album': {'album_type': 'single', 'artists': [{'external_urls': {'spotify': 'https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4'}, 'href': 'https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4', 'id': '3TVXtAsR1Inumwj472S9r4', 'name': 'Drake', 'type': 'artist', 'uri': 'spotify:artist:3TVXtAsR1Inumwj472S9r4'}], 'available_markets': ['AD', 'AE', 'AL', 'AR', 'AT', 'AU', 'BA', 'BE', 'BG', 'BH', 'BO', 'BR', 'CA', 'CH', 'CL', 'CO', 'CR', 'CY', 'CZ', 'DE', 'DK', 'DO', 'DZ', 'EC', 'EE', 'EG', 'ES', 'FI', 'FR', 'GB', 'GR', 'GT', 'HK', 'HN', 'HR', 'HU', 'ID', 'IE', 'IL', 'IN', 'IS', 'IT', 'JO', 'JP', 'KW', 'KZ', 'LB', 'LI', 'LT', 'LU', 'LV', 'MA', 'MC', 'MD', 'ME', 'MK', 'MT', 'MX', 'MY', 'NI', 'NL', 'NO', 'NZ', 'OM', 'PA', 'PE', 'PH', 'PL', 'PS', 'PT', 'PY', 'QA', 'RO', 'RS', 'RU', 'SA', 'SE', 'SG', 'SI', 'SK', 'SV', 'TH', 'TN', 'TR', 'TW', 'UA', 'US', 'UY', 'VN', 'XK', 'ZA'], 'external_urls': {'spotify': 'https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4'}, 'href': 'https://api.spotify.com/v1/albums/00HZxSA1sOS9T3nA950sg4', 'id': '00HZxSA1sOS9T3nA950sg4', 'images': [{'height': 640, 'url': 'https://i.scdn.co/image/ab67616d0000b2733f3b653b0a7b9e889a712c3d', 'width': 640}, {'height': 300, 'url': 'https://i.scdn.co/image/ab67616d00001e023f3b653b0a7b9e889a712c3d', 'width': 300}, {'height': 64, 'url': 'https://i.scdn.co/image/ab67616d000048513f3b653b0a7b9e889a712c3d', 'width': 64}], 'name': 'The Best In The World Pack', 'release_date': '2019-06-15', 'release_date_precision': 'day', 'total_tracks': 2, 'type': 'album', 'uri': 'spotify:album:00HZxSA1sOS9T3nA950sg4'}, 'artists': [{'external_urls': {'spotify': 'https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4'}, 'href': 'https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4', 'id': '3TVXtAsR1Inumwj472S9r4', 'name': 'Drake', 'type': 'artist', 'uri': 'spotify:artist:3TVXtAsR1Inumwj472S9r4'}], 'available_markets': ['AD', 'AE', 'AL', 'AR', 'AT', 'AU', 'BA', 'BE', 'BG', 'BH', 'BO', 'BR', 'CA', 'CH', 'CL', 'CO', 'CR', 'CY', 'CZ', 'DE', 'DK', 'DO', 'DZ', 'EC', 'EE', 'EG', 'ES', 'FI', 'FR', 'GB', 'GR', 'GT', 'HK', 'HN', 'HR', 'HU', 'ID', 'IE', 'IL', 'IN', 'IS', 'IT', 'JO', 'JP', 'KW', 'KZ', 'LB', 'LI', 'LT', 'LU', 'LV', 'MA', 'MC', 'MD', 'ME', 'MK', 'MT', 'MX', 'MY', 'NI', 'NL', 'NO', 'NZ', 'OM', 'PA', 'PE', 'PH', 'PL', 'PS', 'PT', 'PY', 'QA', 'RO', 'RS', 'RU', 'SA', 'SE', 'SG', 'SI', 'SK', 'SV', 'TH', 'TN', 'TR', 'TW', 'UA', 'US', 'UY', 'VN', 'XK', 'ZA'], 'disc_number': 1, 'duration_ms': 219506, 'explicit': True, 'external_ids': {'isrc': 'USCM51900312'}, 'external_urls': {'spotify': 'https://open.spotify.com/track/3kCwyvhvVTyehIzYN2I0nF'}, 'href': 'https://api.spotify.com/v1/tracks/3kCwyvhvVTyehIzYN2I0nF', 'id': '3kCwyvhvVTyehIzYN2I0nF', 'is_local': False, 'name': 'Omertà', 'popularity': 61, 'preview_url': 'https://p.scdn.co/mp3-preview/771b03e12dd4a25efd044beed06c23d65dbb1b70?cid=a95f4d68b9b94ccda85624e8b63494ad', 'track_number': 1, 'type': 'track', 'uri': 'spotify:track:3kCwyvhvVTyehIzYN2I0nF'}, 'currently_playing_type': 'track', 'actions': {'disallows': {'resuming': True}}, 'is_playing': True}Recieved call to get current playbackCurrent playback: {'device': {'id': '463176e913b1e197439140049c31f87d938e5e71', 'is_active': True, 'is_private_session': False, 'is_restricted': False, 'name': 'Kael’s iPhone', 'type': 'Smartphone', 'volume_percent': 100}, 'shuffle_state': True, 'repeat_state': 'off', 'timestamp': 1616098402892, 'context': {'external_urls': {'spotify': 'https://open.spotify.com/playlist/3XIwMH07FKq7nKbeXJcJAk'}, 'href': 'https://api.spotify.com/v1/playlists/3XIwMH07FKq7nKbeXJcJAk', 'type': 'playlist', 'uri': 'spotify:playlist:3XIwMH07FKq7nKbeXJcJAk'}, 'progress_ms': 171146, 'item': {'album': {'album_type': 'single', 'artists': [{'external_urls': {'spotify': 'https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4'}, 'href': 'https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4', 'id': '3TVXtAsR1Inumwj472S9r4', 'name': 'Drake', 'type': 'artist', 'uri': 'spotify:artist:3TVXtAsR1Inumwj472S9r4'}], 'available_markets': ['AD', 'AE', 'AL', 'AR', 'AT', 'AU', 'BA', 'BE', 'BG', 'BH', 'BO', 'BR', 'CA', 'CH', 'CL', 'CO', 'CR', 'CY', 'CZ', 'DE', 'DK', 'DO', 'DZ', 'EC', 'EE', 'EG', 'ES', 'FI', 'FR', 'GB', 'GR', 'GT', 'HK', 'HN', 'HR', 'HU', 'ID', 'IE', 'IL', 'IN', 'IS', 'IT', 'JO', 'JP', 'KW', 'KZ', 'LB', 'LI', 'LT', 'LU', 'LV', 'MA', 'MC', 'MD', 'ME', 'MK', 'MT', 'MX', 'MY', 'NI', 'NL', 'NO', 'NZ', 'OM', 'PA', 'PE', 'PH', 'PL', 'PS', 'PT', 'PY', 'QA', 'RO', 'RS', 'RU', 'SA', 'SE', 'SG', 'SI', 'SK', 'SV', 'TH', 'TN', 'TR', 'TW', 'UA', 'US', 'UY', 'VN', 'XK', 'ZA'], 'external_urls': {'spotify': 'https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4'}, 'href': 'https://api.spotify.com/v1/albums/00HZxSA1sOS9T3nA950sg4', 'id': '00HZxSA1sOS9T3nA950sg4', 'images': [{'height': 640, 'url': 'https://i.scdn.co/image/ab67616d0000b2733f3b653b0a7b9e889a712c3d', 'width': 640}, {'height': 300, 'url': 'https://i.scdn.co/image/ab67616d00001e023f3b653b0a7b9e889a712c3d', 'width': 300}, {'height': 64, 'url': 'https://i.scdn.co/image/ab67616d000048513f3b653b0a7b9e889a712c3d', 'width': 64}], 'name': 'The Best In The World Pack', 'release_date': '2019-06-15', 'release_date_precision': 'day', 'total_tracks': 2, 'type': 'album', 'uri': 'spotify:album:00HZxSA1sOS9T3nA950sg4'}, 'artists': [{'external_urls': {'spotify': 'https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4'}, 'href': 'https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4', 'id': '3TVXtAsR1Inumwj472S9r4', 'name': 'Drake', 'type': 'artist', 'uri': 'spotify:artist:3TVXtAsR1Inumwj472S9r4'}], 'available_markets': ['AD', 'AE', 'AL', 'AR', 'AT', 'AU', 'BA', 'BE', 'BG', 'BH', 'BO', 'BR', 'CA', 'CH', 'CL', 'CO', 'CR', 'CY', 'CZ', 'DE', 'DK', 'DO', 'DZ', 'EC', 'EE', 'EG', 'ES', 'FI', 'FR', 'GB', 'GR', 'GT', 'HK', 'HN', 'HR', 'HU', 'ID', 'IE', 'IL', 'IN', 'IS', 'IT', 'JO', 'JP', 'KW', 'KZ', 'LB', 'LI', 'LT', 'LU', 'LV', 'MA', 'MC', 'MD', 'ME', 'MK', 'MT', 'MX', 'MY', 'NI', 'NL', 'NO', 'NZ', 'OM', 'PA', 'PE', 'PH', 'PL', 'PS', 'PT', 'PY', 'QA', 'RO', 'RS', 'RU', 'SA', 'SE', 'SG', 'SI', 'SK', 'SV', 'TH', 'TN', 'TR', 'TW', 'UA', 'US', 'UY', 'VN', 'XK', 'ZA'], 'disc_number': 1, 'duration_ms': 219506, 'explicit': True, 'external_ids': {'isrc': 'USCM51900312'}, 'external_urls': {'spotify': 'https://open.spotify.com/track/3kCwyvhvVTyehIzYN2I0nF'}, 'href': 'https://api.spotify.com/v1/tracks/3kCwyvhvVTyehIzYN2I0nF', 'id': '3kCwyvhvVTyehIzYN2I0nF', 'is_local': False, 'name': 'Omertà', 'popularity': 61, 'preview_url': 'https://p.scdn.co/mp3-preview/771b03e12dd4a25efd044beed06c23d65dbb1b70?cid=a95f4d68b9b94ccda85624e8b63494ad', 'track_number': 1, 'type': 'track', 'uri': 'spotify:track:3kCwyvhvVTyehIzYN2I0nF'}, 'currently_playing_type': 'track', 'actions': {'disallows': {'resuming': True}}, 'is_playing': True}
+
+------------------------ 2021-03-18 16:16:27.591630---------------------------
+
+
+
+------------------------ 2021-03-18 16:16:49.552836---------------------------
+
+
+
+------------------------ 2021-03-18 16:17:07.347887---------------------------
+
+Recieved call to get current playbackCurrent playback: {'device': {'id': '463176e913b1e197439140049c31f87d938e5e71', 'is_active': True, 'is_private_session': False, 'is_restricted': False, 'name': 'Kael’s iPhone', 'type': 'Smartphone', 'volume_percent': 100}, 'shuffle_state': True, 'repeat_state': 'off', 'timestamp': 1616098615893, 'context': {'external_urls': {'spotify': 'https://open.spotify.com/playlist/3XIwMH07FKq7nKbeXJcJAk'}, 'href': 'https://api.spotify.com/v1/playlists/3XIwMH07FKq7nKbeXJcJAk', 'type': 'playlist', 'uri': 'spotify:playlist:3XIwMH07FKq7nKbeXJcJAk'}, 'progress_ms': 40903, 'item': {'album': {'album_type': 'single', 'artists': [{'external_urls': {'spotify': 'https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN'}, 'href': 'https://api.spotify.com/v1/artists/2p1fiYHYiXz9qi0JJyxBzN', 'id': '2p1fiYHYiXz9qi0JJyxBzN', 'name': 'Skepta', 'type': 'artist', 'uri': 'spotify:artist:2p1fiYHYiXz9qi0JJyxBzN'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp'}, 'href': 'https://api.spotify.com/v1/artists/3tVQdUvClmAT7URs9V3rsp', 'id': '3tVQdUvClmAT7URs9V3rsp', 'name': 'WizKid', 'type': 'artist', 'uri': 'spotify:artist:3tVQdUvClmAT7URs9V3rsp'}], 'available_markets': ['AD', 'AE', 'AL', 'AR', 'AT', 'AU', 'BA', 'BE', 'BG', 'BH', 'BO', 'BR', 'BY', 'CA', 'CH', 'CL', 'CO', 'CR', 'CY', 'CZ', 'DE', 'DK', 'DO', 'DZ', 'EC', 'EE', 'EG', 'ES', 'FI', 'FR', 'GB', 'GR', 'GT', 'HK', 'HN', 'HR', 'HU', 'ID', 'IE', 'IL', 'IN', 'IS', 'IT', 'JO', 'JP', 'KW', 'KZ', 'LB', 'LI', 'LT', 'LU', 'LV', 'MA', 'MC', 'MD', 'ME', 'MK', 'MT', 'MX', 'MY', 'NI', 'NL', 'NO', 'NZ', 'OM', 'PA', 'PE', 'PH', 'PL', 'PS', 'PT', 'PY', 'QA', 'RO', 'RS', 'RU', 'SA', 'SE', 'SG', 'SI', 'SK', 'SV', 'TH', 'TN', 'TR', 'TW', 'UA', 'US', 'UY', 'VN', 'XK', 'ZA'], 'external_urls': {'spotify': 'https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB'}, 'href': 'https://api.spotify.com/v1/albums/6c2FMAZeFKi8pui6dlZqXB', 'id': '6c2FMAZeFKi8pui6dlZqXB', 'images': [{'height': 640, 'url': 'https://i.scdn.co/image/ab67616d0000b2735595a4c733f6db29d4b90cb5', 'width': 640}, {'height': 300, 'url': 'https://i.scdn.co/image/ab67616d00001e025595a4c733f6db29d4b90cb5', 'width': 300}, {'height': 64, 'url': 'https://i.scdn.co/image/ab67616d000048515595a4c733f6db29d4b90cb5', 'width': 64}], 'name': 'Energy (Stay Far Away)', 'release_date': '2018-06-20', 'release_date_precision': 'day', 'total_tracks': 1, 'type': 'album', 'uri': 'spotify:album:6c2FMAZeFKi8pui6dlZqXB'}, 'artists': [{'external_urls': {'spotify': 'https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN'}, 'href': 'https://api.spotify.com/v1/artists/2p1fiYHYiXz9qi0JJyxBzN', 'id': '2p1fiYHYiXz9qi0JJyxBzN', 'name': 'Skepta', 'type': 'artist', 'uri': 'spotify:artist:2p1fiYHYiXz9qi0JJyxBzN'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp'}, 'href': 'https://api.spotify.com/v1/artists/3tVQdUvClmAT7URs9V3rsp', 'id': '3tVQdUvClmAT7URs9V3rsp', 'name': 'WizKid', 'type': 'artist', 'uri': 'spotify:artist:3tVQdUvClmAT7URs9V3rsp'}], 'available_markets': ['AD', 'AE', 'AL', 'AR', 'AT', 'AU', 'BA', 'BE', 'BG', 'BH', 'BO', 'BR', 'BY', 'CA', 'CH', 'CL', 'CO', 'CR', 'CY', 'CZ', 'DE', 'DK', 'DO', 'DZ', 'EC', 'EE', 'EG', 'ES', 'FI', 'FR', 'GB', 'GR', 'GT', 'HK', 'HN', 'HR', 'HU', 'ID', 'IE', 'IL', 'IN', 'IS', 'IT', 'JO', 'JP', 'KW', 'KZ', 'LB', 'LI', 'LT', 'LU', 'LV', 'MA', 'MC', 'MD', 'ME', 'MK', 'MT', 'MX', 'MY', 'NI', 'NL', 'NO', 'NZ', 'OM', 'PA', 'PE', 'PH', 'PL', 'PS', 'PT', 'PY', 'QA', 'RO', 'RS', 'RU', 'SA', 'SE', 'SG', 'SI', 'SK', 'SV', 'TH', 'TN', 'TR', 'TW', 'UA', 'US', 'UY', 'VN', 'XK', 'ZA'], 'disc_number': 1, 'duration_ms': 199521, 'explicit': True, 'external_ids': {'isrc': 'QM4TX1885995'}, 'external_urls': {'spotify': 'https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd'}, 'href': 'https://api.spotify.com/v1/tracks/11RIJRbBfyLlJut96itSFd', 'id': '11RIJRbBfyLlJut96itSFd', 'is_local': False, 'name': 'Energy (Stay Far Away)', 'popularity': 66, 'preview_url': 'https://p.scdn.co/mp3-preview/e42c0417f21c6afddd90a46013681c5e4dd57acb?cid=a95f4d68b9b94ccda85624e8b63494ad', 'track_number': 1, 'type': 'track', 'uri': 'spotify:track:11RIJRbBfyLlJut96itSFd'}, 'currently_playing_type': 'track', 'actions': {'disallows': {'resuming': True}}, 'is_playing': True}
+
+------------------------ 2021-03-18 16:17:55.926428---------------------------
+
+Recieved call to get current playbackCurrent playback: {'device': {'id': '463176e913b1e197439140049c31f87d938e5e71', 'is_active': True, 'is_private_session': False, 'is_restricted': False, 'name': 'Kael’s iPhone', 'type': 'Smartphone', 'volume_percent': 100}, 'shuffle_state': True, 'repeat_state': 'off', 'timestamp': 1616098615893, 'context': {'external_urls': {'spotify': 'https://open.spotify.com/playlist/3XIwMH07FKq7nKbeXJcJAk'}, 'href': 'https://api.spotify.com/v1/playlists/3XIwMH07FKq7nKbeXJcJAk', 'type': 'playlist', 'uri': 'spotify:playlist:3XIwMH07FKq7nKbeXJcJAk'}, 'progress_ms': 60886, 'item': {'album': {'album_type': 'single', 'artists': [{'external_urls': {'spotify': 'https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN'}, 'href': 'https://api.spotify.com/v1/artists/2p1fiYHYiXz9qi0JJyxBzN', 'id': '2p1fiYHYiXz9qi0JJyxBzN', 'name': 'Skepta', 'type': 'artist', 'uri': 'spotify:artist:2p1fiYHYiXz9qi0JJyxBzN'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp'}, 'href': 'https://api.spotify.com/v1/artists/3tVQdUvClmAT7URs9V3rsp', 'id': '3tVQdUvClmAT7URs9V3rsp', 'name': 'WizKid', 'type': 'artist', 'uri': 'spotify:artist:3tVQdUvClmAT7URs9V3rsp'}], 'available_markets': ['AD', 'AE', 'AL', 'AR', 'AT', 'AU', 'BA', 'BE', 'BG', 'BH', 'BO', 'BR', 'BY', 'CA', 'CH', 'CL', 'CO', 'CR', 'CY', 'CZ', 'DE', 'DK', 'DO', 'DZ', 'EC', 'EE', 'EG', 'ES', 'FI', 'FR', 'GB', 'GR', 'GT', 'HK', 'HN', 'HR', 'HU', 'ID', 'IE', 'IL', 'IN', 'IS', 'IT', 'JO', 'JP', 'KW', 'KZ', 'LB', 'LI', 'LT', 'LU', 'LV', 'MA', 'MC', 'MD', 'ME', 'MK', 'MT', 'MX', 'MY', 'NI', 'NL', 'NO', 'NZ', 'OM', 'PA', 'PE', 'PH', 'PL', 'PS', 'PT', 'PY', 'QA', 'RO', 'RS', 'RU', 'SA', 'SE', 'SG', 'SI', 'SK', 'SV', 'TH', 'TN', 'TR', 'TW', 'UA', 'US', 'UY', 'VN', 'XK', 'ZA'], 'external_urls': {'spotify': 'https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB'}, 'href': 'https://api.spotify.com/v1/albums/6c2FMAZeFKi8pui6dlZqXB', 'id': '6c2FMAZeFKi8pui6dlZqXB', 'images': [{'height': 640, 'url': 'https://i.scdn.co/image/ab67616d0000b2735595a4c733f6db29d4b90cb5', 'width': 640}, {'height': 300, 'url': 'https://i.scdn.co/image/ab67616d00001e025595a4c733f6db29d4b90cb5', 'width': 300}, {'height': 64, 'url': 'https://i.scdn.co/image/ab67616d000048515595a4c733f6db29d4b90cb5', 'width': 64}], 'name': 'Energy (Stay Far Away)', 'release_date': '2018-06-20', 'release_date_precision': 'day', 'total_tracks': 1, 'type': 'album', 'uri': 'spotify:album:6c2FMAZeFKi8pui6dlZqXB'}, 'artists': [{'external_urls': {'spotify': 'https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN'}, 'href': 'https://api.spotify.com/v1/artists/2p1fiYHYiXz9qi0JJyxBzN', 'id': '2p1fiYHYiXz9qi0JJyxBzN', 'name': 'Skepta', 'type': 'artist', 'uri': 'spotify:artist:2p1fiYHYiXz9qi0JJyxBzN'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp'}, 'href': 'https://api.spotify.com/v1/artists/3tVQdUvClmAT7URs9V3rsp', 'id': '3tVQdUvClmAT7URs9V3rsp', 'name': 'WizKid', 'type': 'artist', 'uri': 'spotify:artist:3tVQdUvClmAT7URs9V3rsp'}], 'available_markets': ['AD', 'AE', 'AL', 'AR', 'AT', 'AU', 'BA', 'BE', 'BG', 'BH', 'BO', 'BR', 'BY', 'CA', 'CH', 'CL', 'CO', 'CR', 'CY', 'CZ', 'DE', 'DK', 'DO', 'DZ', 'EC', 'EE', 'EG', 'ES', 'FI', 'FR', 'GB', 'GR', 'GT', 'HK', 'HN', 'HR', 'HU', 'ID', 'IE', 'IL', 'IN', 'IS', 'IT', 'JO', 'JP', 'KW', 'KZ', 'LB', 'LI', 'LT', 'LU', 'LV', 'MA', 'MC', 'MD', 'ME', 'MK', 'MT', 'MX', 'MY', 'NI', 'NL', 'NO', 'NZ', 'OM', 'PA', 'PE', 'PH', 'PL', 'PS', 'PT', 'PY', 'QA', 'RO', 'RS', 'RU', 'SA', 'SE', 'SG', 'SI', 'SK', 'SV', 'TH', 'TN', 'TR', 'TW', 'UA', 'US', 'UY', 'VN', 'XK', 'ZA'], 'disc_number': 1, 'duration_ms': 199521, 'explicit': True, 'external_ids': {'isrc': 'QM4TX1885995'}, 'external_urls': {'spotify': 'https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd'}, 'href': 'https://api.spotify.com/v1/tracks/11RIJRbBfyLlJut96itSFd', 'id': '11RIJRbBfyLlJut96itSFd', 'is_local': False, 'name': 'Energy (Stay Far Away)', 'popularity': 66, 'preview_url': 'https://p.scdn.co/mp3-preview/e42c0417f21c6afddd90a46013681c5e4dd57acb?cid=a95f4d68b9b94ccda85624e8b63494ad', 'track_number': 1, 'type': 'track', 'uri': 'spotify:track:11RIJRbBfyLlJut96itSFd'}, 'currently_playing_type': 'track', 'actions': {'disallows': {'resuming': True}}, 'is_playing': True}
+
+------------------------ 2021-03-18 16:18:38.285021---------------------------
+
+
+
+------------------------ 2021-03-18 16:18:42.731505---------------------------
+
+Recieved call to get current playbackCurrent playback: {'device': {'id': '463176e913b1e197439140049c31f87d938e5e71', 'is_active': True, 'is_private_session': False, 'is_restricted': False, 'name': 'Kael’s iPhone', 'type': 'Smartphone', 'volume_percent': 100}, 'shuffle_state': True, 'repeat_state': 'off', 'timestamp': 1616098615893, 'context': {'external_urls': {'spotify': 'https://open.spotify.com/playlist/3XIwMH07FKq7nKbeXJcJAk'}, 'href': 'https://api.spotify.com/v1/playlists/3XIwMH07FKq7nKbeXJcJAk', 'type': 'playlist', 'uri': 'spotify:playlist:3XIwMH07FKq7nKbeXJcJAk'}, 'progress_ms': 119334, 'item': {'album': {'album_type': 'single', 'artists': [{'external_urls': {'spotify': 'https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN'}, 'href': 'https://api.spotify.com/v1/artists/2p1fiYHYiXz9qi0JJyxBzN', 'id': '2p1fiYHYiXz9qi0JJyxBzN', 'name': 'Skepta', 'type': 'artist', 'uri': 'spotify:artist:2p1fiYHYiXz9qi0JJyxBzN'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp'}, 'href': 'https://api.spotify.com/v1/artists/3tVQdUvClmAT7URs9V3rsp', 'id': '3tVQdUvClmAT7URs9V3rsp', 'name': 'WizKid', 'type': 'artist', 'uri': 'spotify:artist:3tVQdUvClmAT7URs9V3rsp'}], 'available_markets': ['AD', 'AE', 'AL', 'AR', 'AT', 'AU', 'BA', 'BE', 'BG', 'BH', 'BO', 'BR', 'BY', 'CA', 'CH', 'CL', 'CO', 'CR', 'CY', 'CZ', 'DE', 'DK', 'DO', 'DZ', 'EC', 'EE', 'EG', 'ES', 'FI', 'FR', 'GB', 'GR', 'GT', 'HK', 'HN', 'HR', 'HU', 'ID', 'IE', 'IL', 'IN', 'IS', 'IT', 'JO', 'JP', 'KW', 'KZ', 'LB', 'LI', 'LT', 'LU', 'LV', 'MA', 'MC', 'MD', 'ME', 'MK', 'MT', 'MX', 'MY', 'NI', 'NL', 'NO', 'NZ', 'OM', 'PA', 'PE', 'PH', 'PL', 'PS', 'PT', 'PY', 'QA', 'RO', 'RS', 'RU', 'SA', 'SE', 'SG', 'SI', 'SK', 'SV', 'TH', 'TN', 'TR', 'TW', 'UA', 'US', 'UY', 'VN', 'XK', 'ZA'], 'external_urls': {'spotify': 'https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB'}, 'href': 'https://api.spotify.com/v1/albums/6c2FMAZeFKi8pui6dlZqXB', 'id': '6c2FMAZeFKi8pui6dlZqXB', 'images': [{'height': 640, 'url': 'https://i.scdn.co/image/ab67616d0000b2735595a4c733f6db29d4b90cb5', 'width': 640}, {'height': 300, 'url': 'https://i.scdn.co/image/ab67616d00001e025595a4c733f6db29d4b90cb5', 'width': 300}, {'height': 64, 'url': 'https://i.scdn.co/image/ab67616d000048515595a4c733f6db29d4b90cb5', 'width': 64}], 'name': 'Energy (Stay Far Away)', 'release_date': '2018-06-20', 'release_date_precision': 'day', 'total_tracks': 1, 'type': 'album', 'uri': 'spotify:album:6c2FMAZeFKi8pui6dlZqXB'}, 'artists': [{'external_urls': {'spotify': 'https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN'}, 'href': 'https://api.spotify.com/v1/artists/2p1fiYHYiXz9qi0JJyxBzN', 'id': '2p1fiYHYiXz9qi0JJyxBzN', 'name': 'Skepta', 'type': 'artist', 'uri': 'spotify:artist:2p1fiYHYiXz9qi0JJyxBzN'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp'}, 'href': 'https://api.spotify.com/v1/artists/3tVQdUvClmAT7URs9V3rsp', 'id': '3tVQdUvClmAT7URs9V3rsp', 'name': 'WizKid', 'type': 'artist', 'uri': 'spotify:artist:3tVQdUvClmAT7URs9V3rsp'}], 'available_markets': ['AD', 'AE', 'AL', 'AR', 'AT', 'AU', 'BA', 'BE', 'BG', 'BH', 'BO', 'BR', 'BY', 'CA', 'CH', 'CL', 'CO', 'CR', 'CY', 'CZ', 'DE', 'DK', 'DO', 'DZ', 'EC', 'EE', 'EG', 'ES', 'FI', 'FR', 'GB', 'GR', 'GT', 'HK', 'HN', 'HR', 'HU', 'ID', 'IE', 'IL', 'IN', 'IS', 'IT', 'JO', 'JP', 'KW', 'KZ', 'LB', 'LI', 'LT', 'LU', 'LV', 'MA', 'MC', 'MD', 'ME', 'MK', 'MT', 'MX', 'MY', 'NI', 'NL', 'NO', 'NZ', 'OM', 'PA', 'PE', 'PH', 'PL', 'PS', 'PT', 'PY', 'QA', 'RO', 'RS', 'RU', 'SA', 'SE', 'SG', 'SI', 'SK', 'SV', 'TH', 'TN', 'TR', 'TW', 'UA', 'US', 'UY', 'VN', 'XK', 'ZA'], 'disc_number': 1, 'duration_ms': 199521, 'explicit': True, 'external_ids': {'isrc': 'QM4TX1885995'}, 'external_urls': {'spotify': 'https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd'}, 'href': 'https://api.spotify.com/v1/tracks/11RIJRbBfyLlJut96itSFd', 'id': '11RIJRbBfyLlJut96itSFd', 'is_local': False, 'name': 'Energy (Stay Far Away)', 'popularity': 66, 'preview_url': 'https://p.scdn.co/mp3-preview/e42c0417f21c6afddd90a46013681c5e4dd57acb?cid=a95f4d68b9b94ccda85624e8b63494ad', 'track_number': 1, 'type': 'track', 'uri': 'spotify:track:11RIJRbBfyLlJut96itSFd'}, 'currently_playing_type': 'track', 'actions': {'disallows': {'resuming': True}}, 'is_playing': True}
+
+------------------------ 2021-03-18 16:20:27.358681---------------------------
+
+
+
+------------------------ 2021-03-18 16:20:47.117377---------------------------
+
+
+
+------------------------ 2021-03-18 16:22:05.356550---------------------------
+
+
+
+------------------------ 2021-03-18 16:22:11.865181---------------------------
+
+
+
+------------------------ 2021-03-18 16:22:14.260580---------------------------
+
+
+
+------------------------ 2021-03-18 16:22:53.557002---------------------------
+
+
+
+------------------------ 2021-03-18 16:23:48.358223---------------------------
+
+
+
+------------------------ 2021-03-18 16:24:11.298633---------------------------
+
+
+
+------------------------ 2021-03-18 16:26:59.827632---------------------------
+
+
+
+------------------------ 2021-03-18 16:27:00.144036---------------------------
+
+
+
+------------------------ 2021-03-18 16:32:46.298174---------------------------
+
+
+
+------------------------ 2021-03-18 16:32:46.494047---------------------------
+
+
+
+------------------------ 2021-03-18 16:33:15.490822---------------------------
+
+
+
+------------------------ 2021-03-18 16:33:19.357098---------------------------
+
+
+
+------------------------ 2021-03-18 16:34:59.036133---------------------------
+
+Getting playlist with name: studyingFound playlist URI: spotify:playlist:3XIwMH07FKq7nKbeXJcJAk--------------------------------Getting playlist with name: studyingFound playlist URI: spotify:playlist:3XIwMH07FKq7nKbeXJcJAk--------------------------------
+
+------------------------ 2021-03-18 16:35:30.127606---------------------------
+
+Getting playlist with name: studying
+
+------------------------ 2021-03-18 16:35:34.201939---------------------------
+
+Getting playlist with name: studying
+
+------------------------ 2021-03-18 16:36:35.524458---------------------------
+
+
+
+------------------------ 2021-03-18 16:36:35.823256---------------------------
+
+Getting playlist with name: studying
+
+------------------------ 2021-03-18 16:38:59.269912---------------------------
+
+
+
+------------------------ 2021-03-18 16:39:03.708262---------------------------
+
+
+
+------------------------ 2021-03-18 16:39:11.317321---------------------------
+
+
+
+------------------------ 2021-03-18 16:39:12.805869---------------------------
+
+Getting playlist with name: studying
+
+------------------------ 2021-03-18 16:39:21.396571---------------------------
+
+
+
+------------------------ 2021-03-18 16:39:37.216103---------------------------
+
+
+
+------------------------ 2021-03-18 16:39:50.905508---------------------------
+
+
+
+------------------------ 2021-03-18 16:39:53.358827---------------------------
+
+
+
+------------------------ 2021-03-18 16:39:57.869205---------------------------
+
+Getting playlist with name: studying
+
+------------------------ 2021-03-18 16:40:08.474350---------------------------
+
+Getting playlist with name: studying
+
+------------------------ 2021-03-18 16:40:14.985700---------------------------
+
+Getting playlist with name: studying
+
+------------------------ 2021-03-18 16:47:43.589414---------------------------
+
+
+
+------------------------ 2021-03-18 16:47:56.270224---------------------------
+
+
+
+------------------------ 2021-03-18 16:48:06.957074---------------------------
+
+
+
+------------------------ 2021-03-18 16:48:09.366651---------------------------
+
+
+
+------------------------ 2021-03-18 16:48:14.859065---------------------------
+
+
+
+------------------------ 2021-03-18 16:48:34.685387---------------------------
+
+
+
+------------------------ 2021-03-18 16:48:44.205064---------------------------
+
+
+
+------------------------ 2021-03-18 16:48:58.976971---------------------------
+
+
+
+------------------------ 2021-03-18 16:49:06.569504---------------------------
+
+Getting playlist with name: studying
+
+------------------------ 2021-03-18 16:49:36.632770---------------------------
+
+Getting playlist with name: studying
+
+------------------------ 2021-03-18 16:49:55.408146---------------------------
+
+
+
+------------------------ 2021-03-18 16:50:07.085976---------------------------
+
+Getting playlist with name: studyingGetting playlist with name: studyingGetting playlist with name: studyingGetting playlist with name: studying
+
+------------------------ 2021-03-18 16:50:25.975039---------------------------
+
+Getting playlist with name: studying
+
+------------------------ 2021-03-18 16:50:44.894649---------------------------
+
+Getting playlist with name: studying
+
+------------------------ 2021-03-18 16:50:59.620550---------------------------
+
+Getting playlist with name: studyingGetting playlist with name: studying
+
+------------------------ 2021-03-18 16:51:08.171356---------------------------
+
+Getting playlist with name: studyingGetting playlist with name: studying
+
+------------------------ 2021-03-18 16:51:30.041805---------------------------
+
+Getting playlist with name: studyingGetting playlist with name: studying
+
+------------------------ 2021-03-18 16:52:24.649332---------------------------
+
+
+
+------------------------ 2021-03-18 16:52:36.298832---------------------------
+
+Getting playlist with name: studying
+
+------------------------ 2021-03-18 16:53:10.448478---------------------------
+
+
+
+------------------------ 2021-03-18 16:53:12.883908---------------------------
+
+Getting playlist with name: studying
+
+------------------------ 2021-03-18 16:53:54.144705---------------------------
+
+Getting playlist with name: studyingGetting playlist with name: studying
+
+------------------------ 2021-03-18 16:54:01.503081---------------------------
+
+
+
+------------------------ 2021-03-18 16:54:01.785034---------------------------
+
+Getting playlist with name: studying
+
+------------------------ 2021-03-18 16:54:23.768551---------------------------
+
+
+
+------------------------ 2021-03-18 16:54:30.283765---------------------------
+
+
+
+------------------------ 2021-03-18 16:54:33.790915---------------------------
+
+Getting playlist with name: studying
+
+------------------------ 2021-03-18 16:54:44.459226---------------------------
+
+Getting playlist with name: studyingGetting playlist with name: studying
+
+------------------------ 2021-03-18 16:54:52.096045---------------------------
+
+Getting playlist with name: studyingGetting playlist with name: studying
+
+------------------------ 2021-03-18 16:55:09.853743---------------------------
+
+Getting playlist with name: studying
+
+------------------------ 2021-03-18 16:55:31.728032---------------------------
+
+
+
+------------------------ 2021-03-18 16:55:34.186010---------------------------
+
+
+
+------------------------ 2021-03-18 16:55:41.736308---------------------------
+
+Getting playlist with name: studying
+
+------------------------ 2021-03-18 16:56:01.581621---------------------------
+
+
+
+------------------------ 2021-03-18 16:56:04.088193---------------------------
+
+Getting playlist with name: studying
+
+------------------------ 2021-03-18 16:56:34.241994---------------------------
+
+Getting playlist with name: studying
+
+------------------------ 2021-03-18 16:56:43.891039---------------------------
+
+Getting playlist with name: studyingGetting playlist with name: studyingGetting playlist with name: studying
+
+------------------------ 2021-03-18 16:56:56.648467---------------------------
+
+Getting playlist with name: studying
+
+------------------------ 2021-03-18 16:57:06.582425---------------------------
+
+
+
+------------------------ 2021-03-18 16:57:10.722853---------------------------
+
+
+
+------------------------ 2021-03-18 16:57:14.144026---------------------------
+
+
+
+------------------------ 2021-03-18 16:57:42.084120---------------------------
+
+
+
+------------------------ 2021-03-18 16:57:58.899955---------------------------
+
+Getting playlist with name: studying
+
+------------------------ 2021-03-18 16:58:39.203030---------------------------
+
+
+
+------------------------ 2021-03-18 16:58:41.586079---------------------------
+
+Getting playlist with name: studyingGetting playlist with name: studying
+
+------------------------ 2021-03-18 16:58:57.336698---------------------------
+
+Getting playlist with name: studyingGetting playlist with name: studying
+
+------------------------ 2021-03-18 16:59:28.437671---------------------------
+
+
+
+------------------------ 2021-03-18 16:59:35.019045---------------------------
+
+Getting playlist with name: studying

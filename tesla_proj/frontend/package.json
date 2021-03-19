@@ -13,7 +13,7 @@
   },
   "proxy": "http://localhost:5000",
   "scripts": {
-    "start-backend": "cd ../backend && source bin/activate &&  export FLASK_APP=tesla.py && export FLASK_ENV=development && flask run",
+    "start-backend": "cd ../backend && source bin/activate &&  export FLASK_APP=api.py && export FLASK_ENV=development && flask run",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
