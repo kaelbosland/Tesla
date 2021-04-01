@@ -16,5 +16,20 @@ class Playlist:
             "tracks": self.tracks
         }
 
+    def jsonify(self):
+        return {
+            "id": self.id,
+            "source": self.source,
+            "name": self.name,
+            "tracks": self.jsonify_tracks()
+        }
+
+
     def __hash__(self):
         return self.id
+
+    def jsonify_tracks(self):
+        jsonified_tracks = {}
+        for track in self.tracks:
+            jsonified_tracks[track] = self.tracks[track].get()
+        return jsonified_tracks

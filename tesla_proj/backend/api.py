@@ -63,6 +63,10 @@ def locate_playlist(playlists, name):
             return playlists[i]
     return {}
 
+track_cache.cache_all_tracks()
+cache_playlists()
+playlist_cache.update_tracks(track_cache)
+
 @app.route('/init')
 def initialize():
     track_cache.cache_all_tracks()
@@ -83,7 +87,7 @@ def devices():
     res = SP.devices()
     log.log('Current devices :' + str(res))
     log.log('--------------------------------')
-    return(res)
+    return(jsonify(res))
 
 @app.route('/play_playlist/<source>')
 def play_playlist(source):
@@ -130,7 +134,7 @@ def track():
 
 @app.route('/playlist/<name>')
 def playlist(name):
-    return playlist_cache.get_by_name(name)
+    return playlist_cache.get_by_name(name).jsonify()
 
 @app.route('/json_playlist')
 def jsonify_playlists():
