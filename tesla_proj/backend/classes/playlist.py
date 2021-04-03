@@ -3,6 +3,7 @@ class Playlist:
         self.id = data["id"]
         self.source = data["uri"]
         self.name = data["name"]
+        self.image = (data["images"])[0]['url']
         self.tracks = {}
 
     def set_tracks(self, tracks):
@@ -13,6 +14,7 @@ class Playlist:
             "id": self.id,
             "source": self.source,
             "name": self.name,
+            "image": self.image,
             "tracks": self.tracks
         }
 
@@ -21,6 +23,7 @@ class Playlist:
             "id": self.id,
             "source": self.source,
             "name": self.name,
+            "image": self.image,
             "tracks": self.jsonify_tracks()
         }
 

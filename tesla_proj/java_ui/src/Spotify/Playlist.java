@@ -14,19 +14,18 @@ public class Playlist {
     private String source;
     private String name;
     private String id;
+    private String image;
     private Map<String, Track> tracks;
 
-    public Playlist(String source, String id, String name, Map<String, Track> tracks) {
-        this.source = source;
-        this.id = id;
-        this.name = name;
-        this.tracks = tracks;
+    public Playlist() {
+
     }
 
     public Playlist(JSONObject playlistJson) {
         this.id = playlistJson.get("id").toString();
         this.name = playlistJson.get("name").toString();
         this.source = playlistJson.get("source").toString();
+        this.image = playlistJson.get("image").toString();
         Map<String, Track> tracks = new HashMap<>();
         JSONObject tracksJson = (JSONObject) playlistJson.get("tracks");
         for (Object trackKey : tracksJson.keySet()) {
@@ -40,6 +39,7 @@ public class Playlist {
         return "ID: " + this.id +
                 "\nName: " + this.name +
                 "\nSource: " + this.source +
+                "\nImage: " + this.image +
                 "\nTracks: " + this.tracks.keySet().toArray().length;
     }
 
@@ -65,6 +65,14 @@ public class Playlist {
 
     public void setId(String id) {
         this.id = id;
+    }
+
+    public String getImage() {
+        return image;
+    }
+
+    public void setImage(String image) {
+        this.image = image;
     }
 
     public Map<String, Track> getTracks() {

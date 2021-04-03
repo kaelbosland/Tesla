@@ -20,6 +20,15 @@ public class JSONConverter {
         return devices;
     }
 
+    public static List<Playlist> convertAllPlaylists(String playlistJson) {
+        JSONObject jsonObject = (JSONObject) JSONValue.parse(playlistJson);
+        List<Playlist> playlists = new ArrayList<>();
+        for (Object playlistID: jsonObject.keySet()) {
+            playlists.add(new Playlist((JSONObject) jsonObject.get(playlistID)));
+        }
+        return playlists;
+    }
+
     public static Playlist convertPlaylist (String playlistJson) {
         JSONObject jsonObject = (JSONObject) JSONValue.parse(playlistJson);
         return new Playlist(jsonObject);

@@ -142,12 +142,12 @@ def jsonify_playlists():
 
 @app.route('/playtrack/<source>')
 def playtrack(source):
-    SP.start_playback(DEVICE, uris=source)
+    SP.start_playback(DEVICE, uris=[source])
     return '200 OK'
 
 @app.route('/queueup/<source>')
 def queueup(source):
-    SP.add_to_queue(source, '463176e913b1e197439140049c31f87d938e5e71')
+    SP.add_to_queue(source, DEVICE)
     return '200 OK'
 
 @app.route('/likes/<uri>')

@@ -65,6 +65,7 @@ class PlaylistCache:
                 "id": playlist.id,
                 "source": playlist.source,
                 "name": playlist.name,
+                "image": playlist.image,
                 "tracks": jsonified_tracks
             }
 
